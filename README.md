@@ -32,8 +32,8 @@ The goal is hardware that is not merely open-source in license, but genuinely re
 6. Defines Skill Competencies
    - Document required competencies and assess where skills are learnable
    - Prefer designs where skills can build incrementally
-7. Licensed to commons
-   - Uses a license that doesn't restrict use
+7. Licensed to Commons
+   - Uses a license that doesn't restrict reasonable use
 8. Considers Repairability and End-of-Life
    - Design for disassembly - fasteners over adhesives, accessible components over sealed
    - Documents maintenance procedures
