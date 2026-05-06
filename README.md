@@ -8,7 +8,7 @@ A methodology for reproducible, community-centered hardware design
 
 Traditional Design for Manufacturability (DFM) is optimized for centralized, capital-intensive production environments. DfODM is a structural inversion that optimizes for open publication and community reproduction. 
 
-The goal is hardware that is not merely open-source in license, but genuinely reproducible -- by individuals, collectives, and communities operating outside centralized industrial infrastructure. 
+The goal is hardware that is not merely open-source in license, but genuinely reproducible -- by individuals, collectives, and communities operating outside centralized industrial infrastructure.  
 
 ## CORE PRINCIPLES
 
@@ -18,7 +18,7 @@ The goal is hardware that is not merely open-source in license, but genuinely re
 3. Documentation is First-Class Artifact
    - Knowledge to required to reproduce it is as importan as product itself
    - Meets OSHWA Certification
-   - We will achieve this using tools produced by the DOF initiative (WIP). 
+   - We will achieve this using tools produced by the [DOF Initiative](https://github.com/dof-initiative) (Under Development). 
 4. Forkability over Optimization
    - Prefers modular assemblies over monolithic
    - Defines clear component interfaces
