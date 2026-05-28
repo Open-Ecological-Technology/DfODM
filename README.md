@@ -2,7 +2,7 @@
 
 Design for Open Distributed Manufacturing
 
-A methodology for reproducible, community-centered hardware design
+A practice for reproducible, community-centered hardware design
 
 ## PREFACE
 
